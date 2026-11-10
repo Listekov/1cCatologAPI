@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "title": "Красная ручка «Всё будет 1С»",
+    "price": 150,
+    "image": "https://raw.githubusercontent.com/Listekov/1cCatologAPI/main/images/Red_Pen.jpg",
+    "category": "stationery",
+    "description": "Красная ручка с серым клипом.",
+    "fullDescription": "Шариковая ручка с матовым красным корпусом и серым металлическим клипом, на котором нанесён слоган «Всё будет 1С» и логотип."
+  },
+  {
+    "id": 2,
+    "title": "Коврик с горячими клавишами",
+    "price": 450,
+    "image": "https://raw.githubusercontent.com/Listekov/1cCatologAPI/main/images/Mouse_Pad_Keyboard_Shortcuts.jpg",
+    "category": "tech",
+    "description": "Коврик для мыши с шпаргалкой по сочетаниям клавиш.",
+    "fullDescription": "Тёмный коврик для мыши с обмётанными краями, на котором собраны сочетания клавиш среды разработки «1С:Предприятие.Элемент Скрипт»: работа с файлами, навигация по коду, поиск, форматирование и отладка."
+  },
+  {
+    "id": 3,
+    "title": "Настенный календарь 2026",
+    "price": 350,
+    "image": "https://raw.githubusercontent.com/Listekov/1cCatologAPI/main/images/Wall_Calendar_2026.jpg",
+    "category": "stationery",
+    "description": "Квартальный календарь с акварельными цветами.",
+    "fullDescription": "Настенный календарь на 2026 год на пружине с акварельной иллюстрацией. Содержит сетку текущего месяца, соседние месяцы и производственную информацию: количество рабочих дней, выходных и праздников."
+  },
+  {
+    "id": 4,
+    "title": "Ручка-мультитул с карабином",
+    "price": 300,
+    "image": "https://raw.githubusercontent.com/Listekov/1cCatologAPI/main/images/Multitool_Pen_With_Carabiner.jpg",
+    "category": "stationery",
+    "description": "Ручка, отвёртки, линейка, стилус и карабин в одном.",
+    "fullDescription": "Компактная жёлтая ручка-мультитул на 6 функций: шариковая ручка, крестовая и плоская отвёртки, линейка 4 см, стилус для экрана и карабин для крепления на ключи или рюкзак."
+  },
+  {
+    "id": 5,
+    "title": "Беспроводная зарядка-подставка",
+    "price": 1500,
+    "image": "https://raw.githubusercontent.com/Listekov/1cCatologAPI/main/images/Wireless_Charging_Stand.jpg",
+    "category": "tech",
+    "description": "Чёрная подставка для зарядки смартфона без проводов.",
+    "fullDescription": "Подставка с функцией беспроводной зарядки и логотипом 1С. Телефон ставится на подставку и заряжается без подключения кабеля. В комплекте кабель USB — USB Type-C."
+  },
+  {
+    "id": 6,
+    "title": "Драже в жестяной коробочке",
+    "price": 120,
+    "image": "https://raw.githubusercontent.com/Listekov/1cCatologAPI/main/images/Mints_In_Tin_Box.jpg",
+    "category": "souvenirs",
+    "description": "Освежающее драже в металлической коробочке.",
+    "fullDescription": "Белое драже в жёлтой жестяной коробочке с выдвижной крышкой, иллюстрацией и логотипом «1С:БухОбслуживание»."
+  },
+  {
+    "id": 7,
+    "title": "Картхолдер «Я здесь только ради денег»",
+    "price": 650,
+    "image": "https://raw.githubusercontent.com/Listekov/1cCatologAPI/main/images/Card_Holder.jpg",
+    "category": "accessories",
+    "description": "Металлический картхолдер с выдвижным механизмом.",
+    "fullDescription": "Чёрный компактный картхолдер с механизмом выдвижения карт. На лицевой стороне яркий принт с девушкой и надпись «Я здесь только ради денег», внизу логотип «1С:БухОбслуживание»."
+  },
+  {
+    "id": 8,
+    "title": "Шнурок для телефона",
+    "price": 250,
+    "image": "https://raw.githubusercontent.com/Listekov/1cCatologAPI/main/images/Phone_Wrist_Strap.jpg",
+    "category": "accessories",
+    "description": "Красный шнурок-петля на запястье с держателем для телефона.",
+    "fullDescription": "Короткий плетёный шнурок красного цвета с жёлтой вставкой и логотипом 1С. Крепится к телефону через плоскую пластину-держатель, которая помещается под чехол."
+  },
+  {
+    "id": 9,
+    "title": "Кожаный кошелёк",
+    "price": 1800,
+    "image": "https://raw.githubusercontent.com/Listekov/1cCatologAPI/main/images/Leather_Wallet.jpg",
+    "category": "accessories",
+    "description": "Кошелёк из коричневой кожи на кнопке.",
+    "fullDescription": "Кошелёк из натуральной кожи коричневого цвета с прошитыми краями, застёжкой-кнопкой и тиснёным логотипом 1С."
+  },
+  {
+    "id": 10,
+    "title": "Серая ручка с подставкой для телефона",
+    "price": 350,
+    "image": "https://raw.githubusercontent.com/Listekov/1cCatologAPI/main/images/Gray_Pen_With_Phone_Stand.jpg",
+    "category": "stationery",
+    "description": "Серая ручка, клип которой работает как подставка для смартфона.",
+    "fullDescription": "Шариковая ручка с матовым серым корпусом. Её металлический клип со слоганом «Всё будет 1С» одновременно служит подставкой для телефона."
+  },
+  {
+    "id": 11,
+    "title": "Матовая кружка с жёлтым котом в огне",
+    "price": 700,
+    "image": "https://raw.githubusercontent.com/Listekov/1cCatologAPI/main/images/Frosted_Glass_Mug_Yellow_Cat.jpg",
+    "category": "drinkware",
+    "description": "Стеклянная кружка с градиентом и котом в пламени.",
+    "fullDescription": "Матовая стеклянная кружка с плавным градиентом от прозрачного к жёлтому. На ней изображён кот в языках пламени и логотип «1С:БухОбслуживание»."
+  },
+  {
+    "id": 12,
+    "title": "Жёлтая термокружка",
+    "price": 1200,
+    "image": "https://raw.githubusercontent.com/Listekov/1cCatologAPI/main/images/Yellow_Insulated_Tumbler.jpg",
+    "category": "drinkware",
+    "description": "Яркая термокружка с крышкой и логотипом 1С.",
+    "fullDescription": "Термокружка с жёлтым матовым покрытием, стальным ободком и прозрачной крышкой. На корпусе нанесён логотип 1С."
+  },
+  {
+    "id": 13,
+    "title": "Термокружки чёрная и белая",
+    "price": 1300,
+    "image": "https://raw.githubusercontent.com/Listekov/1cCatologAPI/main/images/Insulated_Tumblers_Black_And_White.jpg",
+    "category": "drinkware",
+    "description": "Термокружки с крышкой в чёрном и белом цвете.",
+    "fullDescription": "Термокружки в двух цветах, чёрном и белом, с металлическим ободком, прозрачной крышкой и гравировкой логотипа 1С."
+  },
+  {
+    "id": 14,
+    "title": "Красная бутылка «Клуб программистов»",
+    "price": 800,
+    "image": "https://raw.githubusercontent.com/Listekov/1cCatologAPI/main/images/Red_Water_Bottle_Programmers_Club.jpg",
+    "category": "drinkware",
+    "description": "Красная бутылка для воды с ремешком.",
+    "fullDescription": "Яркая красная бутылка с откидной крышкой и серым ремешком. На корпусе жёлтый логотип «1С:Клуб программистов»."
+  },
+  {
+    "id": 15,
+    "title": "Розовая бутылка «Всё будет 1С»",
+    "price": 800,
+    "image": "https://raw.githubusercontent.com/Listekov/1cCatologAPI/main/images/Pink_Water_Bottle.jpg",
+    "category": "drinkware",
+    "description": "Спортивная бутылка с матовым градиентом.",
+    "fullDescription": "Бутылка для воды с матовым корпусом в пастельных розово-серых тонах, откидной крышкой с клапаном и красной надписью «Всё будет 1С»."
+  },
+  {
+    "id": 16,
+    "title": "Чёрный шоппер «Потянем любую задачу»",
+    "price": 500,
+    "image": "https://raw.githubusercontent.com/Listekov/1cCatologAPI/main/images/Black_Tote_Bag.jpg",
+    "category": "bags",
+    "description": "Тканевая сумка-шоппер с ярким принтом.",
+    "fullDescription": "Чёрная тканевая сумка с длинной ручкой и принтом в виде девушки в кокошнике на жёлтом фоне с репками. Рядом надпись «Потянем любую задачу»."
+  },
+  {
+    "id": 17,
+    "title": "Чёрная футболка с принтом «Баланс»",
+    "price": 1100,
+    "image": "https://raw.githubusercontent.com/Listekov/1cCatologAPI/main/images/Black_T-Shirt_Balance_Print.jpg",
+    "category": "clothing",
+    "description": "Чёрная футболка оверсайз с иллюстрацией на груди.",
+    "fullDescription": "Хлопковая чёрная футболка свободного кроя с яркой иллюстрацией на жёлтом фоне и надписью «Баланс». На подоле красная нашивка с логотипом 1С."
+  },
+  {
+    "id": 18,
+    "title": "Чёрная футболка «Жёлтая майка лидера»",
+    "price": 1100,
+    "image": "https://raw.githubusercontent.com/Listekov/1cCatologAPI/main/images/Black_T-Shirt_Yellow_Leader_Jersey.jpg",
+    "category": "clothing",
+    "description": "Чёрная футболка оверсайз с жёлтой надписью.",
+    "fullDescription": "Чёрная хлопковая футболка свободного кроя с жёлтой надписью «Жёлтая майка лидера» на груди."
+  },
+  {
+    "id": 19,
+    "title": "Жёлтые сабо",
+    "price": 1600,
+    "image": "https://raw.githubusercontent.com/Listekov/1cCatologAPI/main/images/Yellow_Clogs.jpg",
+    "category": "clothing",
+    "description": "Лёгкие жёлтые сабо на высокой подошве.",
+    "fullDescription": "Яркие жёлтые сабо с вентиляционными отверстиями, ремешком на пятке и логотипами 1С на ремешке и сбоку."
+  },
+  {
+    "id": 20,
+    "title": "Белая футболка «За работу»",
+    "price": 1100,
+    "image": "https://raw.githubusercontent.com/Listekov/1cCatologAPI/main/images/White_T-Shirt_Cat_With_Coffee.jpg",
+    "category": "clothing",
+    "description": "Белая футболка оверсайз с котом и кофе.",
+    "fullDescription": "Белая хлопковая футболка свободного кроя с принтом: жёлтый кот держит стаканчик с кофе, над ним надпись «За работу»."
+  },
+  {
+    "id": 21,
+    "title": "Красные ремувки",
+    "price": 200,
+    "image": "https://raw.githubusercontent.com/Listekov/1cCatologAPI/main/images/Red_Fabric_Wristbands_Infographic.jpg",
+    "category": "accessories",
+    "description": "Красные тканевые ремувки с надписями для айтишников.",
+    "fullDescription": "Красные тканевые ремувки с логотипом 1С в трёх вариантах: «SSH KEY — DON'T LOSE», «AI GENERATED — HUMAN APPROVED *probably» и «ИИ говорит ДА — Тимлид говорит НЕТ». Функциональный аксессуар с долей иронии."
+  },
+  {
+    "id": 22,
+    "title": "Выдвижной кабель 3 в 1",
+    "price": 500,
+    "image": "https://raw.githubusercontent.com/Listekov/1cCatologAPI/main/images/Retractable_3in1_Charging_Cable.jpg",
+    "category": "tech",
+    "description": "Красный кабель с USB, Lightning, Type-C и micro USB.",
+    "fullDescription": "Компактный выдвижной кабель в прозрачном корпусе с жёлтой вставкой и логотипом «Фирма 1С». Имеет разъём USB и три выхода для зарядки: Lightning, USB Type-C и micro USB."
+  },
+  {
+    "id": 23,
+    "title": "Плюшевый жёлтый кот",
+    "price": 900,
+    "image": "https://raw.githubusercontent.com/Listekov/1cCatologAPI/main/images/Plush_Yellow_Cat_Toy.jpg",
+    "category": "souvenirs",
+    "description": "Вязаный жёлтый кот с розовым бантиком.",
+    "fullDescription": "Мягкая вязаная игрушка в виде жёлтого кота из плюшевой пряжи, с розовым бантиком на ухе, вышитыми усами и длинным хвостом."
+  },
+  {
+    "id": 24,
+    "title": "Жёлтые носки с котами",
+    "price": 400,
+    "image": "https://raw.githubusercontent.com/Listekov/1cCatologAPI/main/images/Yellow_Socks_With_Cats.jpg",
+    "category": "clothing",
+    "description": "Яркие носки с принтом из котов и облачков.",
+    "fullDescription": "Жёлтые носки с красной резинкой и узором из мордочек котов и красных облачков."
+  },
+  {
+    "id": 25,
+    "title": "Мини-ёлка с золотыми шарами",
+    "price": 750,
+    "image": "https://raw.githubusercontent.com/Listekov/1cCatologAPI/main/images/Mini_Christmas_Tree_With_Gold_Baubles.jpg",
+    "category": "souvenirs",
+    "description": "Золотая настольная ёлка с набором шаров.",
+    "fullDescription": "Небольшая настольная ёлочка из золотистой мишуры и золотые ёлочные шары с логотипом «Фирма 1С»."
+  },
+  {
+    "id": 26,
+    "title": "Чёрная поясная сумка",
+    "price": 1400,
+    "image": "https://raw.githubusercontent.com/Listekov/1cCatologAPI/main/images/Black_Waist_Bag.jpg",
+    "category": "bags",
+    "description": "Компактная поясная сумка с логотипом 1С.",
+    "fullDescription": "Поясная сумка из прочной чёрной ткани с регулируемым ремнём на пластиковой застёжке, молнией, внешним карманом и отверстием для наушников."
+  },
+  {
+    "id": 27,
+    "title": "Красный рюкзак «Клуб программистов»",
+    "price": 2500,
+    "image": "https://raw.githubusercontent.com/Listekov/1cCatologAPI/main/images/Red_Backpack_Programmers_Club.jpg",
+    "category": "bags",
+    "description": "Небольшой красный рюкзак с надписью.",
+    "fullDescription": "Лёгкий красный рюкзак с серыми лямками, ручкой для переноски и сетчатым боковым карманом. На лицевой стороне надпись «Запрограммирован на удачу!», адрес club.1c.ru и логотип «1С:Клуб программистов»."
+  },
+  {
+    "id": 28,
+    "title": "Чёрный рюкзак для ноутбука",
+    "price": 3200,
+    "image": "https://raw.githubusercontent.com/Listekov/1cCatologAPI/main/images/Black_Laptop_Backpack.jpg",
+    "category": "bags",
+    "description": "Строгий чёрный рюкзак с металлической шильдой.",
+    "fullDescription": "Деловой чёрный рюкзак с тканевой лицевой панелью, ручкой для переноски и металлической шильдой с логотипом 1С. Подходит для ноутбука и повседневных вещей."
+  },
+  {
+    "id": 29,
+    "title": "Шопперы с котами",
+    "price": 550,
+    "image": "https://raw.githubusercontent.com/Listekov/1cCatologAPI/main/images/Tote_Bags_With_Cats_Navy_And_Black.jpg",
+    "category": "bags",
+    "description": "Сумки с жёлтыми котами, тёмно-синяя и чёрная.",
+    "fullDescription": "Тканевые сумки-шопперы в двух цветах, тёмно-синем с чёрной ручкой и чёрном с красной ручкой. Покрыты жёлтыми рисунками котов, в нижнем углу большой жёлтый кот с логотипом 1С. Есть кольцо для крепления аксессуаров."
+  },
+  {
+    "id": 30,
+    "title": "Серый рюкзак",
+    "price": 2300,
+    "image": "https://raw.githubusercontent.com/Listekov/1cCatologAPI/main/images/Gray_Backpack.jpg",
+    "category": "bags",
+    "description": "Вместительный серый рюкзак с карманами.",
+    "fullDescription": "Городской рюкзак из серой меланжевой ткани с чёрным дном, несколькими отделениями на молниях, боковыми сетчатыми карманами и логотипом «Фирма 1С» на переднем кармане."
+  }
+]
